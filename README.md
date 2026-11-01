@@ -10,4 +10,4 @@ To build and run this project on Windows, ensure you have the following installe
 ## 🚀 How to Build and Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[Your-Username]/FOS_Project_2026.git
+   git clone https://github.com/AmrShaban1/FOS_Project_2026.git

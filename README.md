@@ -1,4 +1,4 @@
-# FOS (Faculty Operating System) 2026
+# FOS (FCIS Operating System) 2026
 
 A custom educational Operating System kernel developed by a 6-member team. The project implements core OS modules including dynamic memory allocation, CPU scheduling, page fault handling, and inter-process communication (IPC).
 
